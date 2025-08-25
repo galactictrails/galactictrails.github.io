@@ -8,7 +8,7 @@ I believe that providing a service should not come at the cost of compromising y
 
 **Local Data Storage**
 
-All data entered into Cold Sore Tracker (including cold sore records, treatment information, and settings) is stored locally on your device only. This information never leaves your device and is not accessible to me or any third parties.
+All data entered into the App is stored locally on your device only. This information never leaves your device and is not accessible to me or any third parties.
 
 **Data Deletion**
 
