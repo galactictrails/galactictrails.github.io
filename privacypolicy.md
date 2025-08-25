@@ -18,7 +18,7 @@ Since all data is stored locally on your device, you can delete your data at any
 
 Apple’s App Store may collect certain information in connection with your download and use of the App. This collection is subject to Apple’s Privacy Policy: https://www.apple.com/legal/privacy/
 
-**Changes to This Privacy Policy**
+**Changes to this Privacy Policy**
 
 I may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
