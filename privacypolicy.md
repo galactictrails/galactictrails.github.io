@@ -1,4 +1,5 @@
-**Privacy Policy for Galactic Trails Last Updated: 25 August 2025**
+**Privacy Policy for Galactic Trails**
+_Last Updated: 25 August 2025_
 
 This is the privacy policy for the mobile application Galactic Trails (the "App").This page informs you of the policies regarding the collection, use, and disclosure of personal data when you use the App and the choices you have associated with that data.
 
