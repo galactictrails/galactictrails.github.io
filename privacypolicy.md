@@ -26,6 +26,6 @@ I may update this Privacy Policy from time to time. Any changes will be posted o
 
 **Contact Details**
 
-If you have any questions about this Privacy Policy, please contact me at: 
+If you have any questions about this Privacy Policy, please contact me at: galactictrailsapp@gmail.com
 
 By using the App, you consent to this Privacy Policy.
